@@ -1,0 +1,13 @@
+{
+    "name": "1naveengiri/packagistdemo",
+    "description": "Testing how packagist work",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Naveen giri",
+            "email": "1naveengiri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
